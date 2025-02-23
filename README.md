@@ -1,4 +1,4 @@
-![MasterHead](https://www.pwc.com/gx/en/issues/cybersecurity/digital-trust-insights/dti-hero-banner-global-animated.gif)
+![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnljZXRuenUyOXp6Y200dXRsejF5YWM2d3NobXdvdHF0ajJwa2QxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 <h1 align="center">Hi 👋, I'm Lewis Mbugua</h1>
 <h3 align="center">A passionate backend developer from Kenya</h3>
 
