@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/imgres?q=banner%20gif%20img%20coding&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F36%2F2d%2F5c%2F362d5c55859146c0c7debfca296ad321.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcomputer-code-decrypting-animated-gif--952652127407579398%2F&docid=2pK7xXvh8RjqrM&tbnid=q8_aUswDFDCorM&vet=12ahUKEwjy76mjp9qLAxXaQ_EDHaVYNr4QM3oECB0QAA..i&w=498&h=206&hcb=2&ved=2ahUKEwjy76mjp9qLAxXaQ_EDHaVYNr4QM3oECB0QAA)
+![MasterHead](https://www.pwc.com/gx/en/issues/cybersecurity/digital-trust-insights/dti-hero-banner-global-animated.gif)
 <h1 align="center">Hi 👋, I'm Lewis Mbugua</h1>
 <h3 align="center">A passionate backend developer from Kenya</h3>
 
