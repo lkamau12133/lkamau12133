@@ -1,6 +1,4 @@
-
-![MasterHead]
-(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW8wYzI5b3c1YnVtaGF4czgzbGV2cDljNnAyanpxczVzMHhhN3d1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW8wYzI5b3c1YnVtaGF4czgzbGV2cDljNnAyanpxczVzMHhhN3d1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
 <h1 align="center">Hi 👋, I'm Lewis Mbugua</h1>
 <h3 align="center">A passionate backend developer from Kenya</h3>
 
